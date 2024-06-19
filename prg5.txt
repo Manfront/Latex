@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\textbf{Boundary Value Theorem:}
+
+Let $f(x)$ be continuous on the closed interval $[a, b]$ and differentiable on the open interval $(a, b)$. If $f(x)$ satisfies the conditions:
+\begin{enumerate}
+    \item $f(a)$ and $f(b)$ exist.
+    \item There exists $c \in (a, b)$ such that $f'(c) = \dfrac{f(b) - f(a)}{b - a}$.
+\end{enumerate}
+Then, there exists $c \in (a, b)$ such that $f(c) = \dfrac{f(b) - f(a)}{b - a}$.
+
+\end{document}

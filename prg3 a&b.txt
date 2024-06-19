@@ -1,0 +1,151 @@
+(a) frontpage.tex
+
+
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[left=3cm,right=3cm,top=2cm,bottom=2cm]{geometry}
+\begin{document}
+\thispagestyle{plain}
+\begin{center}
+\Large
+\textbf{About Hitler}\\
+\vspace{0.4cm}
+\large
+             Abstract/Summary \\
+
+\textbf{soumya}
+    \end{center}
+\vspace{0.9cm}
+\textbf{Abstract}
+\vspace{0.4cm} \\
+
+	Adolf Hitler[a] (20 April 1889 – 30 April 1945) was an Austrian-born German politician who was the dictator of Nazi Germany from 1933 until his suicide in 1945.
+
+\vspace{0.9cm}
+\textbf{Summary}
+\vspace{0.4cm}
+		\\Nazi Germany,[h] officially known as the German Reich[i] and later the Greater German Reich,[j] is a term used to describe the German state between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country, transforming it into a totalitarian dictatorship. 
+
+\end{document}
+
+
+
+
+
+(b) title.tex
+
+
+
+\begin{titlingpage}
+
+\thispagestyle{empty}
+
+\centering
+
+\setlength {\toptafiddle} {1 in}
+
+\setlength {\bottafiddle} {1 in}
+
+\vspace*{-0.75in}
+
+\enlargethispage {\toptafiddle}
+
+\begin{LARGE}
+
+\textbf{VISVESVARAYA TECHNOLOGICAL UNIVERSITY}\\
+
+\end{LARGE}
+
+\begin{small}
+
+(Jnana Sangama, Belagavi - 590018)
+
+\end{small}
+
+\begin{figure} [h]
+
+\centering
+
+\includegraphics[height=4cm]{C:/Users/vadit/OneDrive/Desktop/latex/vtu logo.png}
+
+\end{figure}
+
+\begin{small}
+
+\textbf{A\\Project Report\\on}
+
+\end{small}
+
+\vfill
+\Huge{\textbf{\textcolor{therablue}{An Introduction of LATEX Report }}}\\
+\Large{\textbf{BCSL456D-Technical Writing using LATEX}}
+\vfill
+
+\begin{small}
+
+\textit {Submitted in the partial fulfillment of the requirements for the award of the Bachelor degree} \\
+
+\end{small}
+
+\begin{normalsize}
+
+\textbf{\textit{Bachelor of Engineering}} \\ in \\
+
+\textbf{\textit{Information Science \ and Engineering}} \\
+
+\textbf{IV SEMESTER MINI PROJECT WORK}
+
+by \\
+
+\end {normalsize}
+
+\vfill
+
+\begin{tabular} {ccc}
+
+\textbf{Prathiksha.P} & & \textbf{1HK22IS080}\\
+\textbf{Soniya Singh} & & \textbf{1HK22IS106}\\
+\textbf{Soumya N Hosmani} & & \textbf{1HK22IS107}\\
+\textbf{ Omkar O} & & \textbf{1HK22IS074}\\
+
+
+\end{tabular}
+
+\vfill
+
+\normalsize {Under the Guidance of}\\
+
+\Large{\textbf{Prof.Naheem MR}}\\
+
+Professor\\
+
+\textbf{Department of Information Science and Engineering}\\
+
+\textbf{2023-24}
+
+\vfill
+
+\begin{figure} [h]
+
+\centering
+
+\includegraphics[height=3.7cm]{C:/Users/vadit/OneDrive/Desktop/latex/hkbk logo.png}
+
+\end{figure}
+
+\begin{small}
+
+\textbf {Accredited by NBA} \\
+
+\end{small}
+
+\textbf{HKBK College of Engineering}\\
+
+\begin{normalsize}
+22/1, Nagawara, Bengaluru - 560045,\\ E-mail: info@hkbk.edu.in, URL: www.hkbk.edu.in \\
+\end{normalsize}
+\end{titlingpage}
+ 
